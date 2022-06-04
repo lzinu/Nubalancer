@@ -1,5 +1,7 @@
 # ***Nubalancer***
 
+<img width="792" alt="스크린샷 2022-06-05 01 17 40" src="https://user-images.githubusercontent.com/103617915/172015585-55743214-5be2-4f48-9a5e-2ab2d948632d.png">
+
 ***Nu**trient* + ***Balancer*** = ***Nubalancer***
 
 21800586 Lee Jinwoo
