@@ -86,7 +86,10 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
   $ python Nubalancer.py
   
   Enter the menu you want to use and follow the instructions to use the service you want!
-  
+ 
+ 
+ <img width="897" alt="스크린샷 2022-06-05 01 19 52" src="https://user-images.githubusercontent.com/103617915/172015803-6432021c-a610-45d3-b351-1e59f3f5efce.png">
+
   
 # Where can people more help, if needed?
   
