@@ -1,8 +1,8 @@
 # ***Nubalancer***
 
-**Nu**trient + **Balancer** = ***Nubalancer***
+***Nu**trient* + ***Balancer*** = ***Nubalancer***
 
-## 21800586 Lee Jinwoo
+21800586 Lee Jinwoo
 
 # What does this project do?
 
