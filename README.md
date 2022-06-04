@@ -1,4 +1,6 @@
-# Nubalancer
+# ***Nubalancer***
+
+**Nu**trient + **Balancer** = ***Nubalancer***
 
 ## 21800586 Lee Jinwoo
 
