@@ -28,11 +28,15 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
     
     $ sudo apt-get install software-properties-common
     
+    
     $ sudo add-apt-repository ppa:deadsnakes/ppa
+    
     
     $ sudo apt-get update
     
+    
     $ sudo apt-get install python
+
 
 ### 2) Python pip download
   
@@ -40,9 +44,12 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
     
     $ sudo apt-get update
     
+    
     $ sudo apt-get
     
+    
     $ sudo apt-get install python-pip
+ 
  
  After installing pip, type the following to check if it was installed properly.
     
@@ -54,9 +61,12 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
   
     $ sudo pip install requests-openapi
     
+    
     $ sudo pip install pprintpp
     
+    
     $ sudo pip install pandas
+ 
  
  ### 4) git clone
 
@@ -77,8 +87,10 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
   
   
 # Where can people more help, if needed?
+  
   ## Python download
     https://docs.python-guide.org/starting/install3/linux/
+  
   ## Python pip download
     https://dora-guide.com/pip-install/
   
