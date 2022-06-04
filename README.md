@@ -45,8 +45,6 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
     $ sudo apt-get update
     
     
-    $ sudo apt-get
-    
     
     $ sudo apt-get install python-pip
  
