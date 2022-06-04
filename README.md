@@ -77,9 +77,9 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
   
   
 # Where can people more help, if needed?
-  ## Python3 download
+  ## Python download
     https://docs.python-guide.org/starting/install3/linux/
-  ## Python3 pip download
+  ## Python pip download
     https://dora-guide.com/pip-install/
   
 
