@@ -1,14 +1,14 @@
-## Nubalancer
+# Nubalancer
 
-# 21800586 Lee Jinwoo
+## 21800586 Lee Jinwoo
 
-## What does this project do?
+# What does this project do?
 
 As many Koreans go out less due to COVID-19, the demand for delivery food has increased. As a result, they were forced to eat less vegetables and fruits and eat more meat-based foods. Eventually, the nutrients in our body become out of balance, which leads to an imbalance of nutrients in our body. If the nutritional imbalance in our body continues, we can get anemia, reduced immunity, obesity, diabetes, high blood pressure, and many other diseases. 
 
 To solve this problem, I would like to introduce a program called Nubalancer to balance our nutrients.
 
-## Why is this project useful?
+# Why is this project useful?
 
 Many people remember the food they ate, but not the nutrients they ate throughout the day. Therefore, we eat food without considering the nutrients of the food, and if it continues, the nutrient balance of our body will be broken. 
 
@@ -18,11 +18,11 @@ However, if you use the Nubalancer program, you can calculate the total amount o
 
 If you try to balance the nutrients in our body through the Nubalancer program, you will be able to prevent various diseases.
 
-## How to get started
+# How to get started
 
-# Set up
+## Set up
 
- 1) Python download
+### 1) Python download
   
   In Linux,
     
@@ -34,7 +34,7 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
     
     $ sudo apt-get install python
 
- 2) Python pip download
+### 2) Python pip download
   
   In Linux,
     
@@ -48,7 +48,7 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
     
     $ pip help
  
- 3) python package download
+### 3) python package download
   
   In order to use the open API, requests, pprint, pandas must be imported, so requests are downloaded using the following command.
   
@@ -58,13 +58,13 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
     
     $ sudo pip install pandas
  
- 4) git clone
+ ### 4) git clone
 
   Use the command below to clone all files in my github to your workspace.
   
   $ git clone https://github.com/lzinu/Nubalancer.git
   
-# Usage
+## Usage
   Move from the directory where git clone was performed to the newly created 'Nubalancer' directory.
   
   $ cd Nubalancer
@@ -76,15 +76,15 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
   Enter the menu you want to use and follow the instructions to use the service you want!
   
   
-## Where can people more help, if needed?
-  # Python3 download
+# Where can people more help, if needed?
+  ## Python3 download
     https://docs.python-guide.org/starting/install3/linux/
-  # Python3 pip download
+  ## Python3 pip download
     https://dora-guide.com/pip-install/
   
 
 
 
-## Prensentation Video(Youtube) Link
+# Prensentation Video(Youtube) Link
 
 Youtube Link --> 
