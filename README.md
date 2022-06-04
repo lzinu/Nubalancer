@@ -18,9 +18,9 @@ However, if you use the Nubalancer program, you can calculate the total amount o
 
 If you try to balance the nutrients in our body through the Nubalancer program, you will be able to prevent various diseases.
 
-# How to get started
+# How to get started?
 
-## Set up
+## 1. Set up
 
 ### 1) Python download
   
@@ -64,7 +64,7 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
   
   $ git clone https://github.com/lzinu/Nubalancer.git
   
-## Usage
+## 2. Usage
   Move from the directory where git clone was performed to the newly created 'Nubalancer' directory.
   
   $ cd Nubalancer
