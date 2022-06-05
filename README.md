@@ -28,7 +28,7 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
 
 ### 1) Python download
   
-  In Linux,
+  For Linux, first download Python within your terminal.
     
     $ sudo apt-get install software-properties-common
     
@@ -44,7 +44,7 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
 
 ### 2) Python pip download
   
-  In Linux,
+  For Linux, download Python pip within your terminal.
     
     $ sudo apt-get update
     
@@ -59,7 +59,7 @@ If you try to balance the nutrients in our body through the Nubalancer program, 
  
 ### 3) python package download
   
-  In order to use the open API, requests, pprint, pandas must be imported, so requests are downloaded using the following command.
+  In order to use the open API, requests, pprint, pandas must be imported, so requests are downloaded using the following command in your terminal.
   
     $ sudo pip install requests-openapi
     
